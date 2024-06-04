@@ -1,4 +1,5 @@
 # Chicago Car Crashes Classification
+![CPD image](CPD.jpg)
 
 This project aims to predict the primary contributory cause of car crashes in Chicago using information about the car, the people in the car, the road conditions, and more.
 
