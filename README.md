@@ -81,23 +81,28 @@ The data has been cleaned to remove any null values and inconsistencies.
 ## Visualization
 The following visualizations are included in the project:
 
-1. **Age vs Injury Classification:** 
-    ![Age vs Injury Classification](Images/Bivariate.PNG)
-    
-2. **Distribution of Airbag Deployment:**
-    ![Distribution of Airbag Deployment](Images/airbag.PNG)
-    
-3. **Distribution of Age:**
-    ![Distribution of Age](Images/Distofage.PNG)
-    
-4. **Distribution of Crash Month:**
-    ![Distribution of Crash Month](Images/DistofCrash_month.PNG)
-    
-5. **Distribution of Vehicle use:**
-    ![Distribution of Vehicle use](Images/Vehicleuse.PNG)
-    
-6. **Distribution of sex:**
-    ![Distribution of Sex](Images/sex.PNG)
+**Age vs Injury Classification** 
+![Age vs Injury Classification](Images/Bivariate.PNG)
+
+---
+**Distribution of Airbag Deployment**
+![Distribution of Airbag Deployment](Images/airbag.PNG)
+
+---
+**Distribution of Age**
+![Distribution of Age](Images/Distofage.PNG)
+
+---
+**Distribution of Crash Month**
+![Distribution of Crash Month](Images/DistofCrash_month.PNG)
+
+---
+**Distribution of Vehicle use**
+![Distribution of Vehicle use](Images/Vehicleuse.PNG)
+
+---
+**Distribution of sex**        
+![Distribution of Sex](Images/sex.PNG)
 
 ---
 
