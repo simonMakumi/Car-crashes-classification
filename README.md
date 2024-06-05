@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Car accidents are a significant public safety issue and understanding their causes is crucial for implementing effective prevention strategies. This project aims to build a classifier that predicts the primary contributory cause of car accidents in Chicago using data on the people involved, the vehicles, and the crash conditions. The insights from this model can help the Vehicle Safety Board and the City of Chicago identify key factors contributing to accidents and take preventive measures to enhance road safety.
+Car accidents are a significant public safety issue and understanding their causes is crucial for implementing effective prevention strategies. This project aims to build a classifier that predicts the primary contributory cause of car accidents in Chicago using data on the people involved, the vehicles and the crash conditions. The insights from this model can help the Vehicle Safety Board and the City of Chicago identify key factors contributing to accidents and take preventive measures to enhance road safety.
 
 ---
 
@@ -88,13 +88,13 @@ The following visualizations are included in the project:
     ![Distribution of Airbag Deployment](Images/airbag.PNG)
     
 3. **Distribution of Age:**
-    ![Distribution of Age](Images/Dist of age.PNG)
+    ![Distribution of Age](Images/Distofage.PNG)
     
 4. **Distribution of Crash Month:**
-    ![Distribution of Crash Month](Images/Dist of Crash_month.PNG)
+    ![Distribution of Crash Month](Images/DistofCrash_month.PNG)
 
 5. **Distribution of Vehicle use:**
-    ![Distribution of Vehicle use](Images/Vehicle use.PNG)
+    ![Distribution of Vehicle use](Images/Vehicleuse.PNG)
     
 6. **Distribution of sex:**
     ![Distribution of Sex](Images/sex.PNG)
