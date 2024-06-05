@@ -92,7 +92,7 @@ The following visualizations are included in the project:
     
 4. **Distribution of Crash Month:**
     ![Distribution of Crash Month](Images/DistofCrash_month.PNG)
-
+    
 5. **Distribution of Vehicle use:**
     ![Distribution of Vehicle use](Images/Vehicleuse.PNG)
     
